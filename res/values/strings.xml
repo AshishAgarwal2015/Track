@@ -4,5 +4,8 @@
     <string name="app_name">Track</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
+    <string name="show_notifications">Show_Notifications</string>
+    <string name="pack">Package</string>
+    <string name="text">Text</string>
+    <string name="count">Count</string>
 </resources>
