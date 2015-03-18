@@ -1,6 +1,7 @@
 package com.example.track;
 
 import android.app.Activity;
+import android.app.Application;
 import android.content.Context;
 import android.util.Log;
 import android.view.LayoutInflater;
